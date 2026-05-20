@@ -15,7 +15,7 @@
 
 ---
 
-## Team & Presentation
+## Demo 
 
 ![Team](IMG_4420.jpg)
 
