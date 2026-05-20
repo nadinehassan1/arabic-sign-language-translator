@@ -23,6 +23,8 @@
 
 ![Project Demo](IMG_4422.jpg)
 ---
+## Demo video
+[Watch Demo video](copy_6257670F-1827-4D0E-B195-A27E24B229B3 2.MOV)
 
 ## 📌 Project Overview
 An AI-powered system that detects **32 Arabic Sign Language letters** from a live webcam and translates them into Arabic text and speech in real time.
