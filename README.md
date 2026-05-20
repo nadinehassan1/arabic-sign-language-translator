@@ -27,7 +27,8 @@
 [Watch Demo video](demovideo.MOV)
 
 ## 📌 Project Overview
-An AI-powered system that detects **32 Arabic Sign Language letters** from a live webcam and translates them into Arabic text and speech in real time.
+AI-powered real-time Arabic Sign Language Translator using MediaPipe, Machine Learning, FastAPI, and React.
+The system detects 32 Arabic sign language letters from webcam input and translates them into Arabic text and speech in real time.
 
 Built for the **Advanced AI Course — Arab academy for science and technology, Week 13**
 
@@ -85,6 +86,22 @@ npm run dev
 Open `http://localhost:5173`
 
 ---
+## Tech Stack
+- Python
+- MediaPipe
+- FastAPI
+- React + Vite
+- scikit-learn
+- WebSockets
+___
+## Features
+- Real-time webcam detection
+- Arabic text generation
+- Speech output
+- Dynamic ML model selection
+- Adjustable confidence threshold
+- Full-stack deployment
+____
 
 ## 📁 Project Structure
 ---
