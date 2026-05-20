@@ -9,6 +9,20 @@
 ![React](https://img.shields.io/badge/Frontend-React+Vite-blue)
 
 ---
+## Project Poster
+
+![Poster](Arabic_Sign_Language_AI_Poster%20-%20Repaired.pdf)
+
+---
+
+## Team & Presentation
+
+![Team](IMG_4420.jpg)
+
+![Presentation](IMG_4421.jpg)
+
+![Project Demo](IMG_4422.jpg)
+---
 
 ## 📌 Project Overview
 An AI-powered system that detects **32 Arabic Sign Language letters** from a live webcam and translates them into Arabic text and speech in real time.
