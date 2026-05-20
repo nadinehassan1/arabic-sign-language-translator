@@ -11,7 +11,7 @@
 ---
 ## Project Poster
 
-![Poster](Arabic_Sign_Language_AI_Poster%20-%20Repaired.pdf)
+![Poster](Arabic_Sign_Language_AI_Poster-Repaired.pdf)
 
 ---
 
