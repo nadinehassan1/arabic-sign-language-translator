@@ -13,9 +13,9 @@
 ## 📌 Project Overview
 An AI-powered system that detects **32 Arabic Sign Language letters** from a live webcam and translates them into Arabic text and speech in real time.
 
-Built for the **Advanced AI Course — Cairo University, Week 13**
+Built for the **Advanced AI Course — Arab academy for science and technology, Week 13**
 
-**Team:** Nadine Hassan · Lina Mohamed · Philopateer Labib  
+ 
 **Supervisors:** Dr. Mohamed Aborizka · Eng. Ahmed Farouk
 
 ---
