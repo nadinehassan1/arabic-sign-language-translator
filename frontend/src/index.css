@@ -1,0 +1,54 @@
+/* ── Reset ── */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* ── Root setup ── */
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  background: #0f1117;
+  color: #e8eaf0;
+}
+
+/* ── React root ── */
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ── Smooth text ── */
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 1.5;
+}
+
+/* ── Inputs default cleanup ── */
+button, input {
+  font-family: inherit;
+  outline: none;
+}
+
+/* ── Buttons reset ── */
+button {
+  cursor: pointer;
+}
+
+/* ── Scrollbar (global fallback) ── */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #303757;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}

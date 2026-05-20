@@ -1,0 +1,12 @@
+{
+  "name": "sign-translator-full",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "concurrently \"npm --prefix frontend run dev\" \"npm run backend\"",
+    "backend": "cd sign_language_translator && uvicorn app:app --reload --port 8000"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-basic-ssl": "^2.3.0",
+    "concurrently": "^9.2.1"
+  }
+}
